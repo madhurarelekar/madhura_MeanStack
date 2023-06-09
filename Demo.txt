@@ -1,0 +1,19 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/madhurarelekar/SL_MeanStack.git
+git push -u origin main
+
+git config --global user.email "madhurarelekar@gmail.com"
+git config --global user.name "madhurarelekar"
+
+
+===============================================================================
+
+2nd time
+
+git init
+git add .
+git commit -m "first commit"
+git push 
